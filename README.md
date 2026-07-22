@@ -6,12 +6,6 @@ Built using **Python**, **XGBoost**, **Scikit-learn**, and **Streamlit**.
 
 ---
 
-## 🚀 Live Demo
-
-*(Add your Streamlit deployment link here after deployment)*
-
----
-
 ## 📌 Project Overview
 
 Customer churn is one of the biggest challenges for subscription-based businesses. Losing customers directly impacts revenue.
@@ -207,17 +201,13 @@ The web application allows users to:
 
 ## 📸 Application Preview
 
-Add screenshots here after running the project.
+### Home Screen
 
-Example:
+![Home Screen](images/home.png)
 
-```
-screenshots/home.png
+### Prediction Result
 
-screenshots/result.png
-```
-
----
+![Prediction Result](images/prediction.png)
 
 ## 📊 Future Improvements
 
