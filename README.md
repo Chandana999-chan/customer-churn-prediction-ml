@@ -6,11 +6,6 @@ Built using **Python**, **XGBoost**, **Scikit-learn**, and **Streamlit**.
 
 ---
 
-## 🚀 Live Demo
-
-*(Add your Streamlit deployment link here after deployment)*
-
----
 
 ## 📌 Project Overview
 
